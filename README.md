@@ -16,5 +16,5 @@ It has become difficult to manage and tasks daily for us due to the modern busy 
 
 # Run - 
 To run the Task Manager App
-  https://taskmgr.helloworlds.co.in/
+  
  
